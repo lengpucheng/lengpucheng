@@ -1,5 +1,5 @@
 <h2 align="center"><div align="center">
-  <a href="https://blog.sunguoqi.com/">
+  <a href="[https://blog.sunguoqi.com/](https://github.com/lengpucheng)">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi 👋, I'm Lengpucheng!&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
